@@ -1,0 +1,8 @@
+#box {
+    height: 400px;
+    width: 400px;
+    background-color: dodgerblue;
+    justify-content: center;
+    color: white;
+    border: 1px solid black;
+}
